@@ -1,4 +1,4 @@
-# [**Click Here to Download**](https://drive.google.com/file/d/1o9JxFQnEq7gYBrF_8pmBx1YNG4VofhFe/view?usp=sharing)
+# [**Click Here to Download Game**](https://drive.google.com/file/d/1o9JxFQnEq7gYBrF_8pmBx1YNG4VofhFe/view?usp=sharing)
 
 # Platformer-Tutorial-Game
 This is a simple platformer game that taught me about:
