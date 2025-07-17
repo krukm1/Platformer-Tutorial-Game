@@ -13,6 +13,7 @@ config_version=5
 config/name="Platformer-Tutorial-Game"
 run/main_scene="uid://bk3kj7daa61mo"
 config/features=PackedStringArray("4.4", "Forward Plus")
+config/icon="uid://dw44faysfv4vh"
 
 [autoload]
 
