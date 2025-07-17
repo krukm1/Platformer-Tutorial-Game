@@ -7,7 +7,7 @@ This is a simple platformer game that taught me about:
 - Dying
 - Text and Scores keeping
 - Audio and Music
-- Exporting the game as a .exe
+- Exporting the game
 
 Tutorial can be found here:
 https://www.youtube.com/watch?v=LOhfqjmasi0
